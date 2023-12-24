@@ -1,4 +1,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aceryy/script/main/acery"))()
 
-
+wait(5)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/aceryy/close-combat/main/acery"))()
